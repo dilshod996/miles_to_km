@@ -2,7 +2,7 @@ import tkinter
 
 FONT = ("Arial", 18, "normal")
 window = tkinter.Tk()
-window.minsize(width=300, height=300)
+window.title("Miles to km calculator")
 
 # Label
 my_label = tkinter.Label( width=10)
